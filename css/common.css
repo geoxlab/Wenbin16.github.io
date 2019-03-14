@@ -111,3 +111,6 @@ html{overflow:-moz-scrollbars-vertical;zoom:expression(function(ele){ele.style.z
 	width: 1080px;
 }
 
+p{
+	line-height: normal;
+}
